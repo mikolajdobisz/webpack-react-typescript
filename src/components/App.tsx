@@ -3,7 +3,7 @@ import '../styles/style.scss';
 
 export const App = () => {
 
-	const greetings : string = "Hello Friend!";
+	const greetings : string = "Hello There!";
 
 	return (
 		<div>
